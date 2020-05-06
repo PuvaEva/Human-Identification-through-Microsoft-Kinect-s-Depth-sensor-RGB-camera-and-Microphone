@@ -9,3 +9,6 @@ This system was built according to the objective of this study which are impleme
 
 
 This system can be used for the authentication application where this system consists of many stages of login. Firstly, the user must set up the data of his speech command, skeleton information and face template in the system. To be recognized by the system, the subject must spoke the speech command. If the speech command recognized, then the subject will undergo second step which is the skeleton recognition. If the skeleton recognized, then as the last step the subject will go through face recognition. The user will be identified and authorize the system only if all 3 stages of recognitions are passed. If any of the stage failed to be recognize, he or she will not be recognized, and the system end the process. Appendix D shows the developed multi-recognition human identification system block diagram.
+
+
+<img width="213" alt="1" src="https://user-images.githubusercontent.com/41656537/81129182-23566980-8f76-11ea-8fa6-130eabac2e02.PNG">
